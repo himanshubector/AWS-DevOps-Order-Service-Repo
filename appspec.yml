@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /awsdevops/target/order-service.jar
     destination: /opt/demo-app-application
 
 hooks:
